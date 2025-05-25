@@ -1,18 +1,16 @@
+
 # COVID-19 Global Impact Dashboard
 
-## Project Overview
-Analyzing and visualizing COVID-19 data to uncover global health and economic trends using Python and Power BI.
+## Overview
+This project analyzes global COVID-19 data to explore health and economic impacts using Python for preprocessing and exploratory analysis. Insights are visualized in Power BI.
 
-## Folder Structure
-- `data/` - Raw and processed datasets
-- `notebooks/` - Jupyter notebooks for preprocessing and EDA
-- `visuals/` - Screenshots/plots from analysis
-- `scripts/` - Python scripts (if any)
+## Project Structure
+- `data/` - Raw dataset (owid-covid-data.csv)
+- `notebooks/` - EDA notebook
+- `scripts/` - Optional scripts
+- `visuals/` - Screenshots of key plots
+- `README.md` - Project overview
 
-## Setup
-- Python 3.9+
-- Required packages: pandas, numpy, matplotlib, seaborn, plotly
-
-## Instructions
-1. Clone the repo
-2. Run `notebooks/EDA.ipynb` to explore initial analysis
+## How to Run
+1. Install dependencies with `pip install -r requirements.txt`
+2. Open `notebooks/EDA.ipynb` and run all cells.

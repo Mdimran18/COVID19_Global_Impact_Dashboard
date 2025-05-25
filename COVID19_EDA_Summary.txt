@@ -1,0 +1,10 @@
+
+COVID-19 Global Impact Dashboard - EDA Summary
+
+- Dataset: owid-covid-data.csv
+- Tools: Python (pandas, matplotlib, seaborn)
+- Tasks completed:
+  - Cleaned missing values
+  - Generated summary statistics
+  - Visualized trends (new cases over time)
+  - Saved sample plot (new_cases_plot.png)

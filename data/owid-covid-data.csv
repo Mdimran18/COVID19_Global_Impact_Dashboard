@@ -1,0 +1,4 @@
+location,date,total_cases,new_cases,total_deaths,new_deaths
+World,2020-01-01,27,27,0,0
+World,2020-01-02,58,31,0,0
+World,2020-01-03,95,37,1,1
