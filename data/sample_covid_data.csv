@@ -1,0 +1,5 @@
+date,location,new_cases,new_deaths,total_cases,total_deaths
+2020-01-01,CountryA,10,1,10,1
+2020-01-02,CountryA,15,0,25,1
+2020-01-01,CountryB,5,0,5,0
+2020-01-02,CountryB,10,1,15,1
